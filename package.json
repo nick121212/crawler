@@ -1,0 +1,16 @@
+{
+  "name": "super-crawler",
+  "version": "0.0.1",
+  "description": "爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "crawler",
+    "typescript",
+    "nodejs"
+  ],
+  "author": "NICK",
+  "license": "MIT"
+}
